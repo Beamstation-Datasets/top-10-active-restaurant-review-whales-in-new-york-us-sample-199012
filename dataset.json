@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 10% of their local market for proven foot traffic and review volume within the last 30 days and a market scope of 10km. \n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 10% Active Restaurant Review Whales in New York, US",
+  "export_job_id": "12e16cc1-38ea-4dc1-81f0-ae336100d216",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 199012,
+  "location_name": "New York",
+  "location_type": "state",
+  "repo_name": "top-10-active-restaurant-review-whales-in-new-york-us-sample-199012",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/199012/beamstation_199012_restaurants-us-ny_SAMPLE_DIST.csv",
+  "sample_pct": 0.55,
+  "sample_records": 10,
+  "sample_sha256": "4b85607ed159548c187a74092b1c790737595f0f64b4d1eb8247e6cae5f30c66",
+  "sample_size_bytes": 57845,
+  "total_records": 1829,
+  "updated_at": "2026-03-31T23:17:45.935188+00:00"
+}
