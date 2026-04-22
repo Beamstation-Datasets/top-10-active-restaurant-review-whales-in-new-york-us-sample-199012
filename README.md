@@ -1,6 +1,6 @@
 # Top 10% Active Restaurant Review Whales in New York, US
 
-> Free BeamStation sample export with 222 rows and masked direct-contact fields.
+> Free BeamStation sample export with 170 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `199012` |
 | Location | New York |
 | Category | Restaurants |
-| Full dataset size | 2,228 records |
-| Free sample size | 222 records (9.96%) |
-| Last export | 2026-04-15T00:55:24.861741+00:00 |
+| Full dataset size | 1,709 records |
+| Free sample size | 170 records (9.95%) |
+| Last export | 2026-04-22T05:10:08.646367+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-10-active-restaurant-review-whales-in-new-york-us-sample-199012/releases/download/sample-latest/beamstation_199012_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
